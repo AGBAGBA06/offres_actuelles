@@ -1259,18 +1259,17 @@ p {
 # Contact
 --------------------------------------------------------------*/
 .contact {
-  padding-top: 5px;
+  padding-top: 10px;
 }
 
 .contact .info {
-  width: 100%;
+  /* width: 100%; */
   background: #fff;
 }
 
 .contact .info i {
   font-size: 20px;
   color: #58a028;
-  float: left;
   width: 44px;
   height: 44px;
   background: #ecf9f0;
@@ -1278,21 +1277,20 @@ p {
   justify-content: center;
   align-items: center;
   border-radius: 50px;
-  transition: all 0.3s ease-in-out;
+  /* transition: all 0.3s ease-in-out; */
 }
 
 .contact .info h4 {
-  padding: 0 0 0 60px;
-  font-size: 22px;
-  font-weight: 600;
+  /* padding: 0 0 0 60px; */
+  font-size: 15px;
+  font-weight: 300;
   margin-bottom: 5px;
   color: #37423b;
 }
 
 .contact .info p {
-  padding: 0 0 0 60px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: px;
   color: #657a6d;
 }
 
