@@ -9,6 +9,10 @@ body {
   color: #444444;
 }
 
+#register{
+  margin-left: 80px;
+  margin-right: 80px;
+}
 a {
   color: #58a028;
   text-decoration: none;
