@@ -8,6 +8,10 @@ body {
   background: #f6f9ff;
   color: #444444;
 }
+.section{
+  margin-left: 80px;
+  margin-right: 80px;
+}
 
 #register{
   margin-left: 80px;
