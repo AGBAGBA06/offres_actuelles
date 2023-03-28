@@ -88,6 +88,20 @@ h6 {
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
 }
+#footer .logo {
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+}
+#footer .logo img {
+  max-height: 70px;
+  margin-bottom: 30px;
+}
 
 #header .logo a {
   color: #58a028;
@@ -1189,6 +1203,10 @@ p {
 .faq .content h3 {
   font-weight: 400;
   font-size: 34px;
+}
+.faq{
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .faq .content h4 {
