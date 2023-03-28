@@ -1259,6 +1259,8 @@ p {
 # Contact
 --------------------------------------------------------------*/
 .contact {
+  margin-left: 80px;
+  margin-right: 80px;
   padding-top: 10px;
 }
 
