@@ -11,7 +11,7 @@ a {
 }
 
 a:hover {
-  color: #86db9f;
+  color: #58a028;
   text-decoration: none;
 }
 
@@ -49,7 +49,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #7ed899;
+  background: #58a028;
   color: #fff;
 }
 
@@ -110,9 +110,11 @@ h6 {
 #header .logo img {
   max-height: 50px;
 }
+
 /**
 * Get Startet Button 
 */
+
 .get-started-btn {
   margin-left: 22px;
   background: #58a028;
@@ -126,7 +128,7 @@ h6 {
 }
 
 .get-started-btn:hover {
-  background: #3ac162;
+  background: #58a028;
   color: #fff;
 }
 
@@ -1281,7 +1283,9 @@ p {
   margin-right: 80px;
   padding-top: 10px;
 }
-
+ .question{
+  margin-right: 80px;
+ }
 .contact .info {
   /* width: 100%; */
   background: #fff;
@@ -1424,10 +1428,10 @@ p {
 --------------------------------------------------------------*/
 .footer {
   color: #fff;
-  background: url("../img/footer-bg.jpg") top center no-repeat;
+  background:  top center no-repeat;
   background-size: cover;
   font-size: 14px;
-  padding: 80px 0 60px 0;
+  padding: 60px 0 60px 0;
   position: relative;
   font-size: 20px;
 }
@@ -1520,7 +1524,7 @@ p {
 }
 
 .footer .footer-legal .copyright {
-  padding-top: 30px;
+  padding-top: 20px;
   border-top: 1px solid rgba(255, 255, 255, 0.15);
 }
 
