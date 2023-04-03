@@ -24,7 +24,13 @@ h6 {
   font-size: 20px;
   font-family: "Roboto", sans-serif;
 }
-
+ .pin{
+  margin-left: 78px;
+ }
+ .pin p{
+  color: #3ac162;
+  font-size: 7px;
+ }
 /*--------------------------------------------------------------
 # Back to top button    
 --------------------------------------------------------------*/
@@ -1193,8 +1199,9 @@ section {
 }
 p {
   margin-bottom: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "roboto", sans-serif;
   font-size: 20px;
+  /* line-height: 30px; */
   color: #020101;
 }
 
