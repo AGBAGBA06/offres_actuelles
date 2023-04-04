@@ -5,6 +5,11 @@ body {
   font-size: 20px;
 }
 
+.shadow{
+  padding-right: 3px;
+  border-radius: 5px;
+
+}
 a {
   color: #58a028;
   text-decoration: none;
