@@ -6,8 +6,7 @@ body {
 }
 
 .shadow{
-  padding-right: 3px;
-  border-radius: 5px;
+  border-radius: 0px;
 
 }
 a {
@@ -18,6 +17,9 @@ a {
 a:hover {
   color: #58a028;
   text-decoration: none;
+}
+.fonc{
+margin-right: 10px;
 }
 
 h1,
